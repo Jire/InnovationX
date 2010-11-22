@@ -1,0 +1,3 @@
+120
+Exorcist,3
+Exotic,1

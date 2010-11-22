@@ -1,0 +1,73 @@
+[ITEMSFORSALE]
+
+
+Item1 = 6619
+Item2 = 4738
+Item3 = 8093
+Item4 = 2692
+Item5 = 379
+Item6 = 8093
+Item7 = 6525
+Item8 = 379
+Item9 = 7977
+Item10 = 379
+Item11 = 1437
+Item12 = 3832
+Item13 = 350000
+Item14 = 1446
+Item15 = 6524
+Item16 = 6525
+Item17 = 7958
+Item18 = 3757
+Item19 = 0
+Item20 = 0
+
+
+[ITEMCOSTAMOUNTS]
+
+
+Item1Amount = 500000000
+Item2Amount = 100000000
+Item3Amount = 25000000
+Item4Amount = 15000000
+Item5Amount = 523523532
+Item6Amount = 25000000
+Item7Amount = 10000000
+Item8Amount = 50000000
+Item9Amount = 10000000
+Item10Amount = 50000000
+Item11Amount = 200
+Item12Amount = 1
+Item13Amount = 0
+Item14Amount = 1000000
+Item15Amount = 500000
+Item16Amount = 8000000
+Item17Amount = 450000000
+Item18Amount = 21341231
+Item19Amount = 0
+Item20Amount = 0
+
+
+[ITEMOWNERS]
+
+
+Item1Owner = Anno
+Item2Owner = Rawr
+Item3Owner = Pain
+Item4Owner = Navy
+Item5Owner = Anno
+Item6Owner = Pain
+Item7Owner = Ohleeleewhy
+Item8Owner = Anno
+Item9Owner = B00m10hp
+Item10Owner = Anno
+Item11Owner = Purple haze
+Item12Owner = Ags pro
+Item13Owner = Nitsua
+Item14Owner = Lll
+Item15Owner = Nitsua
+Item16Owner = Nitsua
+Item17Owner = Lilmoorman
+Item18Owner = Im harry
+Item19Owner = Somebody
+Item20Owner = Somebody

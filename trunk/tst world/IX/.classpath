@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="MySql/" kind="src" path=""/>
+	<classpathentry kind="src" path="MySql"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="MySql/lib/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="MySql/lib/jta-spec1_0_1.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="jython.jar"/>
+	<classpathentry kind="lib" path="MySql/mysql-connector-java-3.0.17-ga-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

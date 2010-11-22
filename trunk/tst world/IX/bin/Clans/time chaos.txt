@@ -1,0 +1,3 @@
+834
+Autoky,3
+Diodo,1

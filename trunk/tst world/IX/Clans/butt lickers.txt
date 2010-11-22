@@ -1,0 +1,4 @@
+33
+Chloe,3
+Exotic,1
+Exorcist,1

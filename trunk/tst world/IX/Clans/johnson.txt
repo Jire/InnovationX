@@ -1,0 +1,4 @@
+1
+Colbasaur,3
+Sheep,2
+Contemptx,2

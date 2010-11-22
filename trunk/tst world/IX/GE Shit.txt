@@ -1,0 +1,12 @@
+GE Shit
+11941 = nothing
+4287 = item 1 (and spot 1)
+4288 = item 2
+4289 = item 3
+4290 = item 4
+4291 = item 5
+4292 = item 6
+4293 = item 7
+4294 = item 8
+4295 = item 9
+4296 = item 10
