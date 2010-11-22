@@ -1,0 +1,18 @@
+3144 = walk
+3145 = block
+3146 = mage atk
+3147 = dead
+3148 = stand
+3149 = tele atk
+
+550 = green cast
+551 = green proj
+552 = green end
+
+553 = red cast
+554 = red proj
+555 = red end
+
+556 = multi cast
+557 = multi proj
+558 = multi end
